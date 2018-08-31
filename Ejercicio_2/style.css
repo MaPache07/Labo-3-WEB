@@ -31,3 +31,7 @@ td:hover p{
     background: rgba(255, 0, 0, 0.5);
     cursor: pointer;
 }
+
+td:hover{
+    background: rgba(255, 0, 0, 0.5);
+}
