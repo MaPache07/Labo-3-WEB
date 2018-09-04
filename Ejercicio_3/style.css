@@ -1,0 +1,114 @@
+input{
+    padding: 1em 1.4em;
+    border-radius: 0.35em;
+    margin: 1em;
+    cursor: pointer;
+}
+
+div.size input {
+    border:0;
+    background: #F3F3F3;
+    color: #6E6E6E;
+}
+
+input#pequeño{
+    font-size: 0.6em;
+}
+
+input#grande{
+    font-size: 1.1em;
+}
+
+div.color input{
+    border:0;
+    color:white;
+}
+
+input#esmeralda{
+    background: #5AD68D;
+}
+
+input#cielo{
+    background: #5BABE5;
+}
+
+input#amatista{
+    background: #B078C2;
+}
+
+input#asfalto{
+    background: #5E6A74;
+}
+
+input#topazio{
+    background: #ED9D56;
+}
+
+input#rubi{
+    background: #EA7063;
+}
+
+div.border input{
+    background: #fff;
+}
+
+input#borde-simple{
+    border: 1px solid #5B5B5B;
+    color: #5B5B5B;
+}
+
+input#borde-esmeralda{
+    border: 1px solid #5AD68D;
+    color: #5AD68D;
+}
+
+input#borde-cielo{
+    border: 1px solid #5BABE5;
+    color: #5BABE5;
+}
+
+input#borde-amatista{
+    border: 1px solid #B078C2;
+    color: #B078C2;
+}
+
+input#borde-asfalto{
+    border: 1px solid #5E6A74;
+    color: #5E6A74;
+}
+
+input#borde-topazio{
+    border: 1px solid #ED9D56;
+    color: #ED9D56;
+}
+
+input#borde-rubi{
+    border: 1px solid #EA7063;
+    color: #EA7063;
+}
+
+input#largo-asfalto{
+    color: #fff;
+    background: #5E6A74;
+    font-size: 1.1em;
+    border: 0px;
+}
+
+input#borde-del-cielo{
+    color:#5BABE5;
+    background: #fff;
+    border: 1px solid #5BABE5;
+}
+
+input#pequeña-esmeralda{
+    background: #5AD68D;
+    color: #fff;
+    font-size: 0.6em;
+    border: 0px;
+}
+
+input#gran-borde-rubi{
+    background: #fff;
+    color: #ED9D56;
+    border: 1px solid #ED9D56;
+}

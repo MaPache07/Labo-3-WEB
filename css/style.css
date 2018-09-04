@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: #fff;
+    font-size: 2em;
+}
+
+em{
+    color:#fff;
+    font-size: 1.1em;
+}
+
+.titulo{
+    background: #2d3436;
+    padding-top: 2em;
+    height: 100px;
+}
+
+td{
+    max-width: 450px;
+    max-height: 300px;
+    padding: 1em 2em;
+}
+
+img{
+    width: 450px;
+    height: 300px;
+}
+
+.simplecode{
+    background: #00517C;
+    width: 450px;
+    height: 200px;
+}
+
+.ajedrez{
+    background: #000;
+    width: 450px;
+    height: 200px;
+}
+
+.botones{
+    background: #B078C2;
+    width: 450px;
+    height: 200px;
+}
+
+div a{
+    color: #fff;
+    font-size: 3em;
+    text-decoration: none;
+    margin: 1em 2em;
+}
+
+table{
+    margin: 1em auto;
+}
